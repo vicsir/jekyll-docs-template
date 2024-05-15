@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Docs Template"
+title: "Docs Jekyll"
 ---
 
 ### Get Started
